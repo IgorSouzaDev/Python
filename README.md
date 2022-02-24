@@ -1,1 +1,1 @@
-# Analise Realizadas através do Python
+# Analises Realizadas através do Python
